@@ -4,4 +4,4 @@
 - 🔭 Atualmente estou trabalhando desenvolvedor FullStack. _I’m currently working FullStack developer._
 - 🌱 Atualmente estou aprendendo inglês, Spring, React... _I’m currently learning English, Spring, React..._
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hfrizzera\&include_all_commits=true&count_private=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hfrizzera\&theme=dark\&include_all_commits=true&count_private=true)
